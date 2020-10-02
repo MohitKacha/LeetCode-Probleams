@@ -14,3 +14,9 @@ Assume a BST is defined as follows:
 InorderTraverse.java => https://leetcode.com/problems/binary-tree-inorder-traversal/
 
 - Given the root of a binary tree, return the inorder traversal of its nodes' values.
+
+# Range Sum of BST
+
+RangeSumOfBST.java => https://leetcode.com/problems/range-sum-of-bst/
+
+- Given the root node of a binary search tree, return the sum of values of all nodes with value between L and R (inclusive)
