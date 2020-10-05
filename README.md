@@ -1,6 +1,6 @@
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="100px"  src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/LeetCode_nav.4d940ca72.png" />][LeetCode]           
+[<img align="left" alt="codeSTACKr.com" width="100px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/1280px-LeetCode_Logo_black_with_text.svg.png" />][LeetCode]           
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
 
