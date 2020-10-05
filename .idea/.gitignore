@@ -1,0 +1,9 @@
+# Default ignored files
+/workspace.xml
+/out
+/google-java-format.xml
+/misc.xml
+/modules.xml
+/vcs.xml
+/LeetCode.iml
+/LeetCodeGit.iml

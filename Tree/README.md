@@ -1,33 +1,21 @@
-# Validate-Binary-Search-Tree-LeetCode
- BinarySearchTree.java => https://leetcode.com/problems/validate-binary-search-tree/
+## Problems & Solutions
 
-Given a binary tree, determine if it is a valid binary search tree (BST).
 
-Assume a BST is defined as follows:
-
-- The left subtree of a node contains only nodes with keys less than the node's key.
-- The right subtree of a node contains only nodes with keys greater than the node's key.
-- Both the left and right subtrees must also be binary search trees.
-
-# Binary Tree Inorder Traversal
-
-InorderTraverse.java => https://leetcode.com/problems/binary-tree-inorder-traversal/
-
-- Given the root of a binary tree, return the inorder traversal of its nodes' values.
-
-# Range Sum of BST
-
-RangeSumOfBST.java => https://leetcode.com/problems/range-sum-of-bst/
-
-- Given the root node of a binary search tree, return the sum of values of all nodes with value between L and R (inclusive)
-
-# Merge Two Binary Trees
-
-MergeBinaryTree.java => https://leetcode.com/problems/merge-two-binary-trees/
-
-- Given two binary trees and imagine that when you put one of them to cover the other, some nodes of the two trees are overlapped while the others are not.
-# Search in a Binary Search Tree
-
-SearchBinaryTree.java => https://leetcode.com/problems/search-in-a-binary-search-tree/
-
-- Given the root node of a binary search tree (BST) and a value. You need to find the node in the BST that the node's value equals the given value. Return the subtree rooted with that node. If such node doesn't exist, you should return NULL.
+| # | Title | Solution | Category | Difficulty |
+|---| ----- | -------- | --------------------- |  -------- |
+| 1 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Java](https://github.com/MohitKacha/LeetCode-Probleams/blob/main/Tree/BinarySearchTree.java) | Tree | Medium
+| 1 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Java](https://github.com/MohitKacha/LeetCode-Probleams/blob/main/Tree/InorderTraverse.java) | Tree | Medium
+| 1 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [Java](https://github.com/MohitKacha/LeetCode-Probleams/blob/main/Tree/RangeSumOfBST.java) | Tree  | Easy
+| 1 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [Java](https://github.com/MohitKacha/LeetCode-Probleams/blob/main/Tree/MergeBinaryTree.java) | Tree | Easy
+| 1 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Java](https://github.com/MohitKacha/LeetCode-Probleams/blob/main/Tree/SearchBinaryTree.java) | Tree | Easy
+| 1 | [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/) | [Java]() | Tree | Easy
+| 1 | [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | [Java]() |  | 
+| 1 | []() | [Java]() |  | 
+| 1 | []() | [Java]() |  | 
+| 1 | []() | [Java]() |  | 
+| 1 | []() | [Java]() |  | 
+| 1 | []() | [Java]() |  | 
+| 1 | []() | [Java]() |  | 
+| 1 | []() | [Java]() |  | 
+| 1 | []() | [Java]() |  | 
+| 1 | []() | [Java]() |  | 

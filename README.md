@@ -9,7 +9,7 @@
 | 1 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [Java](https://github.com/MohitKacha/LeetCode-Probleams/blob/main/Tree/MergeBinaryTree.java) | Tree | Easy
 | 1 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Java](https://github.com/MohitKacha/LeetCode-Probleams/blob/main/Tree/SearchBinaryTree.java) | Tree | Easy
 | 1 | [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/) | [Java]() | Tree | Easy
-| 1 | []() | [Java]() |  | 
+| 589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [Java]() | Tree | Easy
 | 1 | []() | [Java]() |  | 
 | 1 | []() | [Java]() |  | 
 | 1 | []() | [Java]() |  | 
