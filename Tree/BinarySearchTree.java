@@ -10,6 +10,8 @@ public class BinarySearchTree {
     public Node(int value) {
       this.value = value;
     }
+
+
   }
 
   private Node root;

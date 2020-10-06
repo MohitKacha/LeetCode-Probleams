@@ -25,7 +25,7 @@
 | 1 | [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/) | [Java]() | Tree | Easy
 | 589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [Java](https://github.com/MohitKacha/LeetCode-Probleams/blob/main/Tree/NAryTreePreOrder.java) | Tree | Easy
 | 590 | [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | [Java](https://github.com/MohitKacha/LeetCode-Probleams/blob/main/Tree/NAryTreePostOrder.java) | Tree | Easy
-| 1 | []() | [Java]() |  | 
+| 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Java]() | String | Easy
 | 1 | []() | [Java]() |  | 
 | 1 | []() | [Java]() |  | 
 | 1 | []() | [Java]() |  | 

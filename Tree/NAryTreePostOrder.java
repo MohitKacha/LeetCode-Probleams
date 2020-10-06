@@ -41,6 +41,7 @@ public class NAryTreePostOrder {
     while (!stack.isEmpty()) {
       root = stack.pop();
       list.addFirst(root.val);
+
       for (Node child : root.children) stack.push(child);
     }
     return list;
